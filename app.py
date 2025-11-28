@@ -43,7 +43,7 @@ if index is None:
 # --------------------------------------
 # Streamlit UI
 # --------------------------------------
-st.title("AI QA Co-Pilot (RAG-powered Testing Knowledge Assistant)")
+st.title("RAG-powered Testing Knowledge Assistant")
 st.write("Upload documents, rebuild index, and ask questions using your own knowledge base.")
 
 # ======================================================
